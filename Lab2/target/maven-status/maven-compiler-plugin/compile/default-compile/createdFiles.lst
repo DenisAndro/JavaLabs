@@ -1,0 +1,11 @@
+com\example\lab2\models\dto\ProjectRequest.class
+com\example\lab2\services\TaskService.class
+com\example\lab2\models\dto\TaskRequest.class
+com\example\lab2\controllers\TaskController.class
+com\example\lab2\repositories\ProjectRepository.class
+com\example\lab2\repositories\TaskRepository.class
+com\example\lab2\Lab2Application.class
+com\example\lab2\models\ProjectEntity.class
+com\example\lab2\services\ProjectService.class
+com\example\lab2\controllers\ProjectController.class
+com\example\lab2\models\TaskEntity.class
